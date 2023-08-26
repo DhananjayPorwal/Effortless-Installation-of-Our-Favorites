@@ -6,10 +6,10 @@ Introducing **Effortless-Installation-of-Our-Favorites**, a powerful Bash script
 
 Setting up a new system or performing a fresh installation can be time-consuming, especially when you have a list of essential programs that you need to install individually. This is where our script shines, offering you a streamlined solution that installs your favorite programs seamlessly, saving you precious time and effort. ⏰
 
-## How to Create Your Own Program Script 🛠️
+## How to Create Your Own Program Script or Pack 🛠️
 
 If you'd like to customize the installation script to include your preferred programs, you can create your own by following these steps:
-1. **Visit [winstall.app](https://winstall.app/):** Use this user-friendly tool to generate a command-line script for installing your desired programs.
+1. **Visit [winstall.app](https://winstall.app/packs):** A user-friendly platform where you can effortlessly create a command-line script by selecting your desired programs after logging in.
 2. **Customize the Generated Script:** Edit the script to fine-tune the installation process according to your preferences.
 3. **Copy the Script:** Copy the script.
 4. **Execute the Script:** Open a terminal, paste the script to initiate the installations.
